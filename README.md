@@ -9,6 +9,6 @@
 
 - 📫 How to reach me **anujsharma78278@gmail.com**
 
-- 📄 Know about my experiences [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa)
+- 📄 Know about my experiences [https://www.findcoder.io/u/anujsharmaaa](https://anuj-sharna-portfolio.netlify.app/)
 
 
