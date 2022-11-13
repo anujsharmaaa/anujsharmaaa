@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa)
 
-- 📝 I regularly write articles on [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa)
+<!-- - 📝 I regularly write articles on [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa) -->
 
 - 📫 How to reach me **anujsharma78278@gmail.com**
 
