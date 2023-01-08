@@ -3,6 +3,21 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash-naikwadi&label=Profile%20views&color=0e75b6&style=flat" alt="Anuj Sharma" /> </p>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript+React%3A)" /> </h3>
 
+<!-- HIDE ANUJ  -->
+<h3 align="center">A Passionate JavaScript Full Stack Developer From India</h3>
+
+<p align="left"> <a href="https://twitter.com/anuj299" target="blank"></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa)
+
+<!-- - 📝 I regularly write articles on [https://www.findcoder.io/u/anujsharmaaa](https://www.findcoder.io/u/anujsharmaaa) -->
+
+- 📫 How to reach me **anujsharma78278@gmail.com**
+
+- 📄 Know about my experiences [https://anuj-sharma-portfolio.netlify.app/](https://anuj-sharma-portfolio.netlify.app/)
+- Github Account :  [https://github.com/anujsharmaaa/](https://github.com/anujsharmaaa/)
+ <!-- HIDE ANUJ  -->
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/anujsharma29/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
